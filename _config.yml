@@ -1,0 +1,10 @@
+# basic options -- This is a comment
+title: New awsome blog
+author: Github User
+email: myemail
+description: some here
+
+
+# Build settings
+markdown: Kramdown
+theme: minima
